@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\968bc68e4ea10835e2be8a8a6f8670ba5272908c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_3ea6f9d2a51725e43d7e8c55340d3e3bc636e2b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_5952770e87c5010e1c2d8b73d2012e1a468d3215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\a1bfa734a6fa79ba58294a1afe2f4f44469e1997\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b83c00e069cad55b519e0a5a4237657fb50b369\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\d307f99361fbb634f33f4bc7bbc1e905cfe5c18d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_f697d6c07e9a4bb4aa42f1e0ee0e8f26f954576f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_bd2b44ac4745eed8f0ce71d217625f809f2e1bad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_aab7a2aa87102f70035cb045b2c32b34a1b217a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_bd2b44ac4745eed8f0ce71d217625f809f2e1bad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\d307f99361fbb634f33f4bc7bbc1e905cfe5c18d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f697d6c07e9a4bb4aa42f1e0ee0e8f26f954576f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\a1bfa734a6fa79ba58294a1afe2f4f44469e1997\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_6b83c00e069cad55b519e0a5a4237657fb50b369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\1ea58fd9208fb91888bdfb4f84e347298f78c805\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_d6948a67ac5712a31a7e6fbf80c74e32d3185ed1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\aa72fd2bb9bf5015647bfc634045cc6b4b436504\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8a09a4828c74a11535b6783d843f95c693492cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\aa72fd2bb9bf5015647bfc634045cc6b4b436504\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_e8a09a4828c74a11535b6783d843f95c693492cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_c00f0caa05fbc707bf10614b11d11b53ee4584fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_aab7a2aa87102f70035cb045b2c32b34a1b217a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\1ea58fd9208fb91888bdfb4f84e347298f78c805\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6948a67ac5712a31a7e6fbf80c74e32d3185ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_c00f0caa05fbc707bf10614b11d11b53ee4584fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IAK\Your\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3602deb52ebc9b332e7a4984db1923525ff0191f">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_38276fec0f0c65ea0c644c3a020aa455b20e9482\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\35054f4ca66a5993347ed0bfe38936b575aa79b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_58503baf5abf434a9c5f7426126cceab826b986c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\35054f4ca66a5993347ed0bfe38936b575aa79b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_58503baf5abf434a9c5f7426126cceab826b986c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\gson-2.8.1_c2480a7360e99818a956aeeaf8d38ef8b94d820e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.1_c2480a7360e99818a956aeeaf8d38ef8b94d820e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\da5305ed2896f226a63132d779dcc3f6850accda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a364a36cf6c95db97a0e0767b7e9e1595d767845\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\807f2778c6abb91dabda861a9aa453bc59bb672c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_195c23a7bc92e65f4531afff4a033b4d0590a2cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\da5305ed2896f226a63132d779dcc3f6850accda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_a364a36cf6c95db97a0e0767b7e9e1595d767845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_7627ac16697d33567d28e5b1938625e0b5c0dc99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\807f2778c6abb91dabda861a9aa453bc59bb672c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_195c23a7bc92e65f4531afff4a033b4d0590a2cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_7627ac16697d33567d28e5b1938625e0b5c0dc99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\65f40664f087af130d639bd1b2369dd5ca372c5f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9591b5b30d42e9c9d77ff7de37a2766e43377b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\IAK\Your\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2f0d06bb1307b7b734de125f63812782ed12c917\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\65f40664f087af130d639bd1b2369dd5ca372c5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_d9591b5b30d42e9c9d77ff7de37a2766e43377b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_c6b04e0de170b8fccdbf870f08b91b896536157c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\7833289ed2558669a1685ca07992b455d453920b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfa861a0991f46af13b62b9db3416ee7908164f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_5952770e87c5010e1c2d8b73d2012e1a468d3215.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\d41422b9a79d24c75e599479bb8bfa08a9ba1002\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_019af9c78b61257faf44381bc28e74918fa56abe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\9ca194ea11f407eb7628a2fad0deb60d3809c3a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65414bfe1ae04c183aeea4f881cb5c2feabbad6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\El Haries\.android\build-cache\968bc68e4ea10835e2be8a8a6f8670ba5272908c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="E:\IAK\Your\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ea6f9d2a51725e43d7e8c55340d3e3bc636e2b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\d41422b9a79d24c75e599479bb8bfa08a9ba1002\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_019af9c78b61257faf44381bc28e74918fa56abe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\9ca194ea11f407eb7628a2fad0deb60d3809c3a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_65414bfe1ae04c183aeea4f881cb5c2feabbad6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.android\build-cache\7833289ed2558669a1685ca07992b455d453920b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\classes_bfa861a0991f46af13b62b9db3416ee7908164f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\El Haries\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\IAK\Your\app\build\intermediates\pre-dexed\debug\okio-1.13.0_c6b04e0de170b8fccdbf870f08b91b896536157c.jar" />
+    </item>
+
+</items>

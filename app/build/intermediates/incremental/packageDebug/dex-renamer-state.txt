@@ -1,0 +1,7 @@
+#Fri Jun 02 01:00:56 ICT 2017
+base.0=E\:\\IAK\\Your\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2f0d06bb1307b7b734de125f63812782ed12c917
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\IAK\\Your\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_38276fec0f0c65ea0c644c3a020aa455b20e9482\\classes.dex
+base.1=E\:\\IAK\\Your\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_38276fec0f0c65ea0c644c3a020aa455b20e9482
+file.0=E\:\\IAK\\Your\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2f0d06bb1307b7b734de125f63812782ed12c917\\classes.dex
