@@ -3,7 +3,7 @@ package com.appku.elharies.yourmovie.model;
 
 import com.google.gson.annotations.SerializedName;
 
-import java.util.ArrayList;
+import java.util.List;
 
 //@Generated("net.hexar.json2pojo")
 @SuppressWarnings("unused")
@@ -12,7 +12,7 @@ public class MovieResponse {
     @SerializedName("page")
     private Long mPage;
     @SerializedName("results")
-    private ArrayList<Result> mResults;
+    private List<Result> mResults;
     @SerializedName("total_pages")
     private Long mTotalPages;
     @SerializedName("total_results")
@@ -26,11 +26,11 @@ public class MovieResponse {
         mPage = page;
     }
 
-    public ArrayList<Result> getResults() {
+    public List<Result> getResults() {
         return mResults;
     }
 
-    public void setResults(ArrayList<Result> results) {
+    public void setResults(List<Result> results) {
         mResults = results;
     }
 

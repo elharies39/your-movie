@@ -11,16 +11,15 @@ import android.widget.TextView;
 
 import com.appku.elharies.yourmovie.R;
 import com.appku.elharies.yourmovie.model.Result;
-import com.squareup.picasso.Picasso;
 
-import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by El Haries on 6/1/2017.
  */
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MovieViewHolder> {
-    ArrayList<Result> movies;
+    List<Result> movies ;
     private int rowLayout;
     private Context context;
 
@@ -43,7 +42,7 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MovieViewHol
 
     }
 
-    public MovieAdapter(ArrayList<Result> movies, int rowLayout, Context context) {
+    public MovieAdapter(List<Result> movies, int rowLayout, Context context) {
         this.movies = movies;
         this.rowLayout = rowLayout;
         this.context = context;
@@ -57,15 +56,15 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MovieViewHol
 
     public void onBindViewHolder(MovieViewHolder holder, int position) {
         holder.judul.setText(movies.get(position).getTitle());
-        String sAdult = Boolean.toString(movies.get(position).getAdult());
-        holder.adult.setText("Adult: " + sAdult);
+        //String sAdult = Boolean.toString(movies.get(position).getAdult());
+        holder.adult.setText("Adult: " + movies.get(position).getAdult());
         holder.release.setText(movies.get(position).getReleaseDate());
         String sPopularity = Double.toString(movies.get(position).getPopularity());
         holder.popularity.setText("Popularity: " + sPopularity);
         String sAvg = Double.toString(movies.get(position).getVoteAverage());
         holder.vote_avg.setText("Vote Average: " + sAvg);
-        Picasso.with(context).load("https://image.tmdb.org/t/p/w500" + movies.get(position)
-                .getBackdropPath()).resize(200, 250).into(holder.poster);
+        //Picasso.with(context).load("https://image.tmdb.org/t/p/w500" + movies.get(position)
+          //      .getBackdropPath()).resize(200, 250).into(holder.poster);
     }
 
     public int getItemCount() {

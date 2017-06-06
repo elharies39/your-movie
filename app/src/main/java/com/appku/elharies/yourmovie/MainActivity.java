@@ -13,7 +13,7 @@ import com.appku.elharies.yourmovie.model.Result;
 import com.appku.elharies.yourmovie.rest.ApiClient;
 import com.appku.elharies.yourmovie.rest.ApiInterface;
 
-import java.util.ArrayList;
+import java.util.List;
 
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -31,9 +31,11 @@ public class MainActivity extends AppCompatActivity {
         if (API_KEY.isEmpty()) {
             Toast.makeText(getApplicationContext(), "PLease Obtain Your API Key", Toast.LENGTH_SHORT).show();
             return;
+        }else {
+            YourMovie();
         }
 
-        YourMovie();
+
     }
 
     public void YourMovie() {
@@ -46,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         call.enqueue(new Callback<MovieResponse>() {
             @Override
             public void onResponse(Call<MovieResponse> call, Response<MovieResponse> response) {
-                ArrayList<Result> movies = response.body().getResults();
+                List<Result> movies = response.body().getResults();
                 Log.d(TAG, "Number of Movies: " + movies.size());
                 recyclerView.setAdapter(new MovieAdapter(movies, R.id.layout_movie, getApplicationContext()));
             }
